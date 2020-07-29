@@ -1,0 +1,7 @@
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\bin\Debug\AzureSampleProject1.exe.config
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\bin\Debug\AzureSampleProject1.exe
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\bin\Debug\AzureSampleProject1.pdb
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\obj\Debug\AzureSampleProject1.csprojAssemblyReference.cache
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\obj\Debug\AzureSampleProject1.csproj.CoreCompileInputs.cache
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\obj\Debug\AzureSampleProject1.exe
+F:\lti champions\training\Devops\day4\AzureSampleProject1Sol\AzureSampleProject1\obj\Debug\AzureSampleProject1.pdb
